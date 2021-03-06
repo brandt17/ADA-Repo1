@@ -2,7 +2,7 @@ Titulo
 
 parrafo 1
 
-parraffo 2
+parrafo 2
 
 parrafo 3
 
